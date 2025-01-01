@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex justify-between items-center">
           {/* Logo Section */}
           <div className="flex items-center space-x-2">
-            <Image
+            <img
               src="/images/logo.jpg"
               alt="Blog Logo"
               width={50}
